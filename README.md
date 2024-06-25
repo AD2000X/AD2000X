@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Corpus_Linguistics-4B0082?style=for-the-badge&logo=language&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformer-FF4500?style=for-the-badge&logo=transformer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supervised_Learning-3776AB?style=for-the-badge"/>
 </p>
@@ -44,10 +45,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sketch_Engine-1E90FF?style=for-the-badge&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/AntConc-008080?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TAGANT-FF4500?style=for-the-badge&logo=tag&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
   <img src="https://img.shields.io/badge/Facebook_Ads_Manager-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   <img src="https://img.shields.io/badge/Salesforce_CRM-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</p>
 </p>
