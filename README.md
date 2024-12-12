@@ -1,5 +1,5 @@
 1. timeseries_data:  
-  Create a distributed CrateDB cluster in the Cloud. Explore a time series data set containing weather information from Chicago.  
+  ===Create a distributed CrateDB cluster in the Cloud. Explore a time series data set containing weather information from Chicago.  
     *The story begins with Time Series Data - the heartbeat of the digital universe. From stock prices to weather patterns, from IoT sensor readings to user interactions, time series data is everywhere.  
     *But here's the challenge: How do we make sens of this vast, continuosly evolving data? How do we turn it into foresight rather than just hindsight?  
 
