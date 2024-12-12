@@ -13,5 +13,5 @@
 
 ### Discover the multi-model capabilities of CrateDB and learn how these can be used to contextualize data.*  
 
-- *We'll take a dataset and show you how to apply full-text and vector similarity searches to it.*
-- *We'll learn how these two approaches differ, and we'll introduce how they can be combined in a hybrid search scenario.*
+- *Take a dataset and show you how to apply full-text and vector similarity searches to it.*
+- *Learn how these two approaches differ and introduce how they can be combined in a hybrid search scenario.*
